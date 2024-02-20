@@ -1,3 +1,2 @@
 print("hello python")
-print("hi")
-print("bye")
+print("hi today is a very sunny day")
